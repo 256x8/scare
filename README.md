@@ -1,2 +1,2 @@
 # scare
-# soon
+# scare.la
