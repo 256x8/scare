@@ -1,2 +1,2 @@
 # scare
-# scare.la
+scare.la
